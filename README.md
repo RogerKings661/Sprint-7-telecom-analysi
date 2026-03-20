@@ -25,6 +25,7 @@ A través de un análisis completo de datos que incluyó:
 -Detección de outliers (usuarios con comportamientos extremos)
 
 -Segmentación de usuarios (agrupar por patrones de uso)
+
+-Visualizaciones (gráficos que muestran patrones claros)
 ## Ejecutar archivo en google colab
 ## ir ejecutando cada cuadro de codigo para su correcto funcionamiento
--Visualizaciones (gráficos que muestran patrones claros)
